@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am so good at pvp**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">_____________________</h3>
 <p align="left">
 </p>
 
