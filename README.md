@@ -2,13 +2,13 @@
 <h3 align="center">A passionate BACK END developer.</h3>
 
 
-- 💵 I’m currently working on **Curently..**
+- 💵 I’m currently working on **RatMod**
 
-- 🌱 I’m currently learning **Django, C++, php**
+- 🌱 I’m currently learning **Django, C++, php, JAVA**
 
-- 👯 I’m looking to collaborate on **Curently..**
+- 👯 I’m looking to collaborate on **RatMod**
 
-- 🤝 I’m looking for help with **Curently..**
+- 🤝 I’m looking for help with **RatMod**
 
 - 💬 Ask me about **You**
 
